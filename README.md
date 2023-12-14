@@ -1,8 +1,8 @@
 ## Hey there 👋, I'm [Mohamed!](https://github.com/MohamedATeama/)
 
-[![Twitter Badge](https://twitter.com/Mohammed1032001)
-[![Linkedin Badge](www.linkedin.com/in/mohammed-teama-1a40571aa)
-[![Facebook Badge](https://www.facebook.com/mohammed.teama.789)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Mohammed1032001)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mohammed-teama-1a40571aa)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-e4405f?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/mohammed.teama.789)
 
 ### Glad to see you here!
 
