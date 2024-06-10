@@ -1,14 +1,12 @@
 ## Hey there 👋, I'm [Mohamed!](https://github.com/MohamedATeama/)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Mohammed1032001)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-00acee?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-teama-1a40571aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-e4405f?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/mohammed.teama.789)
 
 ### Glad to see you here!
 
 I am a Full Stack Developer with a mission to revolutionize how the world hires with AI. 🚀
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, etc. I've led diverse tech teams covering Frontend and Backend and building scalable products from scratch with the commitment to making a positive impact through technology.
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, etc. I've led diverse tech teams covering Frontend and Backend and building scalable products from scratch with the commitment to making a positive impact through technology.
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
@@ -18,8 +16,8 @@ Like My Work?
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
+- 🛠 &nbsp; I’m currently working with JS, React, Nodejs, etc.
+- 🚀 &nbsp; I’m currently exploring ML, Gen AI, etc.
 - 💬 &nbsp; Ask me anything [here](https://github.com/MohamedATeama/MohamedATeama/issues/1#issue-2042622432)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: mohammed.teama789@gmail.com.
